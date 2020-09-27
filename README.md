@@ -1,5 +1,13 @@
-# Winograd 3x3 stride2実装
-## 実行方法
+# Winograd stride2
+自分用リファレンス実装
+##3x3 stride2
+
 ```
-python3 wino_st2.py
+python3 3x3_st2.py.py
+```
+
+##7x7 stride2
+
+```
+python3 7x7_st2.py.py
 ```
